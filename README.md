@@ -32,8 +32,8 @@ pubstate = {forthcoming}
 The supplementary material contains all the materials used to produce the outputs in the submitted paper together with our implementation of the MIMIC method. All implementation files are Jupyter Notebooks and require Python.
 
 The implementation is structured as follows:
-- [Mimic.ipynb](Mimic.ipynb): Mimic algorithm
-- [Exp_NoBias.ipynb](Exp_NoBias.ipynb): Experiment: Mimic's behavior when no bias is present
+- [Mimic.ipynb](Mimic.ipynb): MIMIC algorithm
+- [Exp_NoBias.ipynb](Exp_NoBias.ipynb): Experiment: MIMIC's behavior when no bias is present
 - [Exp_Number_of_Bins.ipynb](Exp_Number_of_Bins.ipynb): Experiment: Which information criterion is best suited to select the number of bins in a histogram?
 - [Exp_PredictionAcc_Synth.ipynb](Exp_PredictionAcc_Synth.ipynb): Experiments on synthetic data
 - [Exp_PredictionAcc_RealData.ipynb](Exp_PredictionAcc_RealData.ipynb): Experiments on real data
