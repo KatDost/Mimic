@@ -6,7 +6,7 @@ Existing strategies for selection bias identification and mitigation generally r
 
 In our PAKDD paper (Citation below), we introduce a novel algorithm, MIMIC, which uses Imitate as a building block but relaxes this limitation. By allowing mixtures of multivariate Gaussians, our technique is able to model multi-cluster datasets and provide solutions for a substantially wider set of problems.
 
-Experiments confirm that MIMIC not only identifies potential biases in multi-cluster datasets which can be corrected early on but also improves classifier performance. The results are given in our PAKDD paper, however, we offer supplementary material and results [here](Mimic_Supplementary.pdf)
+Experiments confirm that MIMIC not only identifies potential biases in multi-cluster datasets which can be corrected early on but also improves classifier performance. The results are given in our PAKDD paper, however, we offer supplementary material and results [here](Mimic_Supplementary.pdf).
 
 # Citation
 If you want to use this implementation or cite Imitate in your publication, please cite the following ICDM paper:
