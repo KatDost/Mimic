@@ -13,7 +13,8 @@ If you want to use this implementation or cite MIMIC in your publication, please
 ```
 Katharina Dost, Hamish Duncanson, Ioannis Ziogas, Patricia Riddle, and Jörg Wicker.
 "Divide and Imitate: Multi-Cluster Identification and Mitigation of Selection Bias."
-In: 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD2022), Forthcoming.
+In: Advances in Knowledge Discovery and Data Mining - 26th Pacific-Asia Conference, PAKDD 2022. 
+Lecture Notes in Computer Science, vol. 13281, pp. 149-160. Springer, Cham (2022).
 ```
 
 Bibtex:
@@ -22,9 +23,14 @@ Bibtex:
 title = {Divide and Imitate: Multi-Cluster Identification and Mitigation of Selection Bias},
 author = {Katharina Dost and Hamish Duncanson and Ioannis Ziogas and Pat Riddle and J\"{o}rg Wicker},
 year = {2022},
-date = {2022-05-16},
-booktitle = {26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD2022)},
-pubstate = {forthcoming}
+booktitle = {Advances in Knowledge Discovery and Data Mining - 26th Pacific-Asia
+               Conference, {PAKDD} 2022},
+series    = {Lecture Notes in Computer Science},
+volume    = {13281},
+pages     = {149--160},
+publisher = {Springer},
+address   = {Cham},
+doi       = {10.1007/978-3-031-05936-0\_12},
 }
 ```
 
